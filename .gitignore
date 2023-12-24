@@ -1,0 +1,9 @@
+.vscode
+
+stats
+data
+logs
+similar_images
+similar_images_fedavg_iid
+.python-version
+__pycache__
